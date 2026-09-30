@@ -11,7 +11,3 @@
 │
 ├── quartus/
 │   └── project files
-│
-└── images/
-    ├── overall_system.png
-    └── demo.jpg
