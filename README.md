@@ -10,4 +10,4 @@
 │   └── comparator.png
 │
 ├── quartus/
-│   └── project files
+    └── project files
